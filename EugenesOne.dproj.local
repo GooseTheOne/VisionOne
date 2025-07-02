@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/28 23:39:30.000.374,=D:\Code\EugenesOne\Unit1.pas</Transaction>
+    <Transaction>2025/06/28 23:41:35.000.798,=D:\Code\EugenesOne\Unit2.pas</Transaction>
+    <Transaction>2025/06/29 00:08:08.000.332,=D:\Code\EugenesOne\Unit2.pas</Transaction>
+    <Transaction>2025/06/29 00:26:05.000.115,D:\Code\EugenesOne\Unit1.pas=D:\Code\EugenesOne\DataModuleGlobal.pas</Transaction>
+    <Transaction>2025/06/29 00:26:05.000.115,D:\Code\EugenesOne\Unit1.dfm=D:\Code\EugenesOne\DataModuleGlobal.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
